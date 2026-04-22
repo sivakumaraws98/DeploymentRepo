@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: 343546983409.dkr.ecr.us-east-1.amazonaws.com/alpha-repo:6-efe6d4f
+          image: 343546983409.dkr.ecr.us-east-1.amazonaws.com/alpha-repo:7-ee330a9
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 80
